@@ -15,7 +15,7 @@ University of Cincinnati Clermont College
 
 ## **Certifications**  
 <div>
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> (Expected: 01/21/2025)  
+<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />  
 <img src="https://img.shields.io/badge/-FEMA_NIMS_ICS--100-004B87?&style=for-the-badge" />  
 <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management-FFD700?&style=for-the-badge&logoColor=white" />  
